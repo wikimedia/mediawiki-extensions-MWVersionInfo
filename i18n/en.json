@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kunal Mehta"
+		]
+	},
+	"mwversioninfo-desc": "Manage MediaWiki version information",
+	"mwversioninfo.json": "{\"releases\": [], \"beta\": null}"
+}
