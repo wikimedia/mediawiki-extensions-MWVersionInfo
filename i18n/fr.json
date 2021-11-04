@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Gomoko",
 			"Raphoraph"
 		]
 	},
-	"mwversioninfo-desc": "Gére les informations de version pour MediaWiki"
+	"mwversioninfo-desc": "Gére les informations de version pour MediaWiki",
+	"apihelp-mwversioninfo-summary": "Obtient l’information de version sur les branches MédiaWiki",
+	"apihelp-mwversioninfo-param-version": "Version de MédiaWiki",
+	"apihelp-mwversioninfo-example": "Obtient des informations sur MédiaWiki 1.27"
 }
