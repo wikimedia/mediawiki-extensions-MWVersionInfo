@@ -4,5 +4,6 @@
 			"Robby"
 		]
 	},
-	"mwversioninfo-desc": "MediaWiki Veriounsinformatioun geréieren"
+	"mwversioninfo-desc": "MediaWiki Veriounsinformatioun geréieren",
+	"apihelp-mwversioninfo-param-version": "MediaWiki Versioun"
 }

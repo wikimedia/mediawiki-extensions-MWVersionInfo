@@ -4,5 +4,6 @@
 			"MITO"
 		]
 	},
-	"apihelp-mwversioninfo-param-version": "MediaWiki-versio"
+	"apihelp-mwversioninfo-param-version": "MediaWiki-versio",
+	"apihelp-mwversioninfo-example": "Lisätietoja MediaWiki-versiosta 1.27"
 }
