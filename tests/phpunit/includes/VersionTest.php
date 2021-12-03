@@ -21,7 +21,7 @@ use MediaWiki\VersionInfo\Version;
 /**
  * @covers \MediaWiki\VersionInfo\Version
  */
-class VersionTest extends MediaWikiTestCase {
+class VersionTest extends MediaWikiIntegrationTestCase {
 
 	protected function assertVersion( array $expected, Version $version ) {
 		$this->assertEquals( $expected[0], $version->major );
