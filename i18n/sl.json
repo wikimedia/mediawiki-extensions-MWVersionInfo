@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"mwversioninfo-desc": "Upravljanje informacij o različici MediaWiki",
+	"apihelp-mwversioninfo-summary": "Pridobi informacije o različici vej MediaWiki",
+	"apihelp-mwversioninfo-param-version": "Različica MediaWiki",
+	"apihelp-mwversioninfo-example": "Pridobi informacije o MediaWiki 1.27"
+}
