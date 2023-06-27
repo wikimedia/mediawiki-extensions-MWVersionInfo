@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nokeoo"
+		]
+	},
+	"mwversioninfo-desc": "Tvarkykite „MediaWiki“ versijos informaciją",
+	"apihelp-mwversioninfo-param-version": "„MediaWiki“ versija",
+	"apihelp-mwversioninfo-example": "Gauna informaciją apie „MediaWiki“ 1.27"
+}
