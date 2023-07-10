@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"mwversioninfo-desc": "Behandle MediaWiki-versjonsinformasjon",
+	"apihelp-mwversioninfo-summary": "Henter versjonsinformasjon om MediaWiki-grener",
+	"apihelp-mwversioninfo-param-version": "MediaWiki-versjon",
+	"apihelp-mwversioninfo-example": "Henter informasjon om MediaWiki 1.27"
+}
