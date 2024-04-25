@@ -35,7 +35,7 @@ class ReleaseLookup {
 		$raw = json_decode( $msg, true );
 		if ( !$raw ) {
 			// TODO: Add stricter validation here
-			throw new \Exception( "Invalid mwversioninfo.json value" );
+			throw new \RuntimeException( "Invalid mwversioninfo.json value" );
 		}
 		$this->cfg = [
 			'releases' => [],
