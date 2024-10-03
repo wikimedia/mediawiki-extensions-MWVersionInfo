@@ -53,7 +53,6 @@ class Version {
 
 	/**
 	 * @param string $input in ##.##.## format
-	 * @throws \Exception
 	 * @return bool|Version
 	 */
 	public static function newFromString( $input ) {
@@ -64,7 +63,7 @@ class Version {
 		);
 		if ( !$matched ) {
 			// Invalid
-			throw new \Exception( "Invalid version: $input" );
+			throw new \RuntimeException( "Invalid version: $input" );
 		}
 
 		$patch = $matches['patch'] ?? 'x';
