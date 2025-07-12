@@ -31,7 +31,7 @@ class ApiVersionInfo extends ApiBase {
 		$params = $this->extractRequestParams();
 		try {
 			$version = Version::newFromString( $params['version'] );
-		} catch ( \Exception $e ) {
+		} catch ( \Exception ) {
 			$this->dieWithError( 'Invalid MediaWiki version provided', 'invalidversion' );
 		}
 
