@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"mwversioninfo-desc": "Xestiona a información da versión de MediaWiki",
+	"apihelp-mwversioninfo-summary": "Obtén información sobre a versión das ramas de MediaWiki",
+	"apihelp-mwversioninfo-param-version": "Versión de MediaWiki",
+	"apihelp-mwversioninfo-example": "Obtén información sobre MediaWiki 1.27"
+}

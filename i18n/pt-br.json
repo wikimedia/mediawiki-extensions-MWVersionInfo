@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eduardoaddad"
+		]
+	},
+	"mwversioninfo-desc": "Gerenciar informações sobre a versão do MediaWiki",
+	"apihelp-mwversioninfo-summary": "Obtém informações sobre a versão das ramificações do MediaWiki",
+	"apihelp-mwversioninfo-param-version": "Versão do MediaWiki",
+	"apihelp-mwversioninfo-example": "Obtém informações sobre o MediaWiki 1.27"
+}
