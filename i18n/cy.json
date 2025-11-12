@@ -5,5 +5,8 @@
 			"Ceirios"
 		]
 	},
-	"apihelp-mwversioninfo-param-version": "Fersiwn MediaWiki"
+	"mwversioninfo-desc": "Rheoli gwybodaeth am fersiwn MediaWici",
+	"apihelp-mwversioninfo-summary": "Cael gwybodaeth fersiwn am ganghennau MediaWici",
+	"apihelp-mwversioninfo-param-version": "Fersiwn MediaWiki",
+	"apihelp-mwversioninfo-example": "Cael gwybodaeth am MediaWici 1.27"
 }
