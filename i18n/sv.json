@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sabelöga"
+			"Sabelöga",
+			"Stefan2255"
 		]
 	},
-	"mwversioninfo-desc": "Hantera MediaWikis versionsinformation"
+	"mwversioninfo-desc": "Hantera MediaWikis versionsinformation",
+	"apihelp-mwversioninfo-summary": "Hämtar versionsinformation om MediaWiki-grenar",
+	"apihelp-mwversioninfo-param-version": "MediaWiki-version",
+	"apihelp-mwversioninfo-example": "Hämtar information om MediaWiki 1.27"
 }
