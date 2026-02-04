@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Woytecr"
+		]
+	},
+	"mwversioninfo-desc": "Zarządzanie informacjami o wersji MediaWiki",
+	"apihelp-mwversioninfo-summary": "Pobiera informacje o wersji gałęzi MediaWiki",
+	"apihelp-mwversioninfo-param-version": "Wersja MediaWiki",
+	"apihelp-mwversioninfo-example": "Pobierz informacje o MediaWiki 1.27"
+}
