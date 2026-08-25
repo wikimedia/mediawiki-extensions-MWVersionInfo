@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"شاه زمان پټان"
+		]
+	},
+	"mwversioninfo-desc": "د مېډياويکي بلڼې مالومات مهارول",
+	"apihelp-mwversioninfo-summary": "د مېډياويکي څانگو په اړه د بلبڼې مالومات ترلاسه کوي",
+	"apihelp-mwversioninfo-param-version": "مېډياويکي بل‌بڼه",
+	"apihelp-mwversioninfo-example": "د مېډياويکي ۱.۷ په اړه مالومات ترلاسه کوي"
+}
