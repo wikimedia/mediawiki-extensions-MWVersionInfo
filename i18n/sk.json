@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"mwversioninfo-desc": "Spravuje informácie o verziách MediaWiky",
+	"apihelp-mwversioninfo-summary": "Získa informácie o verziách vetiev MediaWiky",
+	"apihelp-mwversioninfo-param-version": "Verzia MediaWiky",
+	"apihelp-mwversioninfo-example": "Získa informácie o MediaWiki 1.27"
+}
